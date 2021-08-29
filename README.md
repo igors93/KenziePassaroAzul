@@ -4,10 +4,12 @@ Projeto desenvolvido na parte 3 da maratona de programação da Kenzie Academy B
 
 ## Ferramentas
 
-1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
-2. [Como utilizar o codepen e o VSCode](https://kenzie-academy-brasil.github.io/ferramentas/)
+1. VS Code 
 
 ## O Projeto
+
+O Projeto consistia na criação de uma mini replica da tela do twiter. Eu participei completamente do projeto onde eu participei fazendo o código. No final do projeto, eu usei de alguns conhecimentos para fazer pequenas modificações como o estado hover do botão.
+
 
 ### Estrutura de arquivos 
 
@@ -27,7 +29,7 @@ Projeto desenvolvido na parte 3 da maratona de programação da Kenzie Academy B
 ### Cores
 
 - Azul principal: #1da1f2;
-    - Opacidade: 0.4;
+- Opacidade: 0.4;
 - Cinza: #828282;
 - Cinza escuro: #333333;
 - Cinza azulado: #e7ecf0;
