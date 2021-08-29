@@ -36,4 +36,4 @@ Projeto desenvolvido na parte 3 da maratona de programação da Kenzie Academy B
 
 ## Layout
 
-- [Twitter](./assets/img/twitter.png)
+- [Twitter](./assets/img/twitter.png)# KenziePassaroAzul
